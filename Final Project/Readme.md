@@ -20,6 +20,9 @@ Our project have 2 stage in total:
 
 
 Main code file to check : /Stage1/stage1_classify.ipynb
+
                           /Stage2/stage2_classify.ipynb
+
                           /Stage2/seg_resnet50.ipynb
+                          
                           /Stage2/seg_efficientb3.ipynb
