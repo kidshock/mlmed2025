@@ -2,7 +2,7 @@ GROUP 2 : Segmentation & Classification of Stroke Regions
 
 
 Group member : 
-Luu Linh Ly - 22BI13268
+Luu Linh Ly - 22BI13269
 
 Vu Hoang Mai Nhi - 22BI13352
 
